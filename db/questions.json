@@ -1,200 +1,191 @@
 [
   {
-    "id": 1,
     "pertanyaan": "Bila gajah jadi ayam, lalu singa jadi ayam, dan kambing jadi ayam, maka ayam jadi apa?",
     "jawaban": "ayam jadi banyak"
   },
   {
-    "id": 2,
     "pertanyaan": "Posisiku ada di depan ibu, tetapi suka bersembunyi di belakang televisi. Aku bisa hidup di tengah air. Tapi, kalau ayah datang, aku akan menghilang. Siapakah aku?",
     "jawaban": " huruf i"
   },
   {
-    "id": 3,
     "pertanyaan": "Apa nama sebuah benda yang kalau ditutup berubah jadi tongkat, tapi ketika dibuka malah jadi tenda?",
     "jawaban": "payung"
   },
   {
-    "id": 4,
     "pertanyaan": "Apakah huruf keempat dalam abjad?",
     "jawaban": "huruf a"
   },
   {
-    "id": 5,
     "pertanyaan": "Aku selalu ada di atas presiden dan menteri, tapi aku tidak punya jabatan apapun dalam pemerintahan. Siapakah aku?",
     "jawaban": "peci"
   },
   {
-    "id": 6,
     "pertanyaan": "Kalau ada bus kecelakaan, pesawat jatuh, ada kapal tenggelam, semuanya akan muncul di mana?",
     "jawaban": "di tv"
   },
   {
-    "id": 7,
     "pertanyaan": " Puncak gunung manakah yang tertinggi di Bumi sebelum Everest ditaklukkan?",
     "jawaban": "everest"
   },
   {
-    "id": 8,
     "pertanyaan": "Jika ada 1 kilo batu dan ada 1 kilo kapas, ketika dijatuhkan ke atas kaki, apa yang lebih sakit?",
     "jawaban": "kaki kita"
   },
   {
-    "id": 9,
     "pertanyaan": "Daun apa yang tidak pernah gugur?",
     "jawaban": "daun telinga"
   },
   {
-    "id": 10,
+    
     "pertanyaan": "Tentara apa yang ukurannya kecil-kecil?",
     "jawaban": "tentara sekutu"
   },
   {
-    "id": 11,
+    
     "pertanyaan": "Ditembak ke bawah, tapi malah hidung yang kena. Apakah itu?",
     "jawaban": "kentut"
   },
   {
-    "id": 12,
+    
     "pertanyaan": "ditusuk tapi bukan sate, dijaring tapi bukan ikan?",
     "jawaban": "konde"
   },
   {
-    "id": 13,
+    
     "pertanyaan": "Di ujung laut ada apa?",
     "jawaban": "Huruf t"
   },
   {
-    "id": 14,
+    
     "pertanyaan": "alat elektronik apa yang bisa bikin move on?",
     "jawaban": "stop kontak"
   },
   {
-    "id": 15,
+    
     "pertanyaan": "sayuran yang dinging",
     "jawaban": "Kembang cold"
   },
   {
-    "id": 16,
+    
     "pertanyaan": "Band band apa yang suka nolak kalo di ajak",
     "jawaban": "noah"
   },
   {
-    "id": 17,
+    
     "pertanyaan": "telor apa yg di pake buat perang",
     "jawaban": "telor dar dar"
   },
   {
-    "id": 18,
+    
     "pertanyaan": "Apa yang ‘Jauh di mata, dekat di hati’?",
     "jawaban": "usus"
   },
   {
-    "id": 19,
+    
     "pertanyaan": "Kopi apa yang bisa mencapit?",
     "jawaban": "kopiting"
   },
-  { "id": 20,
+  { 
     "pertanyaan": "Nenek siapa yang jalannya meloncat-loncat?",
     "jawaban": "nenek katak"
   },
   {
-    "id": 21,
+    
     "pertanyaan": "Apa judul lagu pembunuhan yang sadis?",
     "jawaban": "potong bebek angsa"
   },
   {
-    "id": 22,
+    
     "pertanyaan": "Kalau kita Cuci piring harus?",
     "jawaban": "sadar"
   },
   {
-    "id": 23,
+    
     "pertanyaan": "Ular apa yang panjang 3,14 meter?",
     "jawaban": "ular piton"
   },
   {
-    "id": 24,
+    
     "pertanyaan": "Hewan apa yang paling hening?",
     "jawaban": "semute"
   },
   {
-    "id": 25,
+    
     "pertanyaan": "Penyanyi luar negeri yang susah nelen?",
     "jawaban": "ed Sered"
   },
   {
-    "id": 26,
+    
     "pertanyaan": "Kalau sedang sendiri, kakinya ada empat, kalau berdua, kakinya jadi ada delapan. Siapakah aku?",
     "jawaban": "kursi"
   },
   {
-    "id": 27,
+    
     "pertanyaan": "Aku dibeli untuk makanan. Tapi aku pernah dimakan. Apakah aku?",
     "jawaban": "piring"
   },
   {
-    "id": 28,
+    
     "pertanyaan": "Hewan yang satu ini bertubuh kecil, berjenis parasit penghisap darah. Betinanya mampu bertelur enam buah sehari, dan hewan tersebut seluruh tubuhnya berada di kepala. Apakah itu?",
     "jawaban": "kutu rambut"
   },
   {
-    "id": 29,
+    
     "pertanyaan": "Ayam apa yang paling besar?",
     "jawaban": "ayam semesta"
   },
   {
-    "id": 30,
+    
     "pertanyaan": "Gerakan apa yang paling sulit dilakukan?",
     "jawaban": "move on"
   },
   {
-    "id": 31,
+    
     "pertanyaan": "Ikan apa yang suka berhenti?",
     "jawaban": "ikan pause"
   },
   {
-    "id": 32,
+    
     "pertanyaan": "TK apa yang membingungkan ?",
     "jawaban": "tk teki silang"
   },
   {
-    "id": 33,
+    
     "pertanyaan": "Negara yang Kaya akan teh hijau ?",
     "jawaban": "papua nugreentea"
   },
   {
-    "id": 34,
+    
     "pertanyaan": "Buah yang pernah jajah Indonesia?",
     "jawaban": "terong belanda"
   },
   {
-    "id": 35,
+    
     "pertanyaan": "Buah apa yang sering jadi tanda film selesai?",
     "jawaban": "toamat"
   },
   {
-    "id": 36,
+    
     "pertanyaan": "Sayur apa yang bisa nyanyi?",
     "jawaban": "kolplay"
   },
   {
-    "id": 37,
+    
     "pertanyaan": "Hewan apa yang paling sehat?",
     "jawaban": "Ularaga"
   },
   {
-    "id": 38,
+    
     "pertanyaan": "Depannya 'K' tengahnya 'T' belakangnya 'L' dan bisa bikin melendung ?",
     "jawaban": "ketapel"
   },
   {
-    "id": 39,
+    
     "pertanyaan": "Siapa artis yang suka bensin?",
     "jawaban": "vin diesel"
   },
   {
-    "id": 40,
+    
     "pertanyaan": "Siapa penyanyi yang jago stand up comedy?",
     "jawaban": "uus dahlia"
   }
