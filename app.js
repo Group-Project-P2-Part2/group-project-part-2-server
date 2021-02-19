@@ -16,14 +16,23 @@ const io = require('socket.io')(http, {
   allowEIO3: true
 });
 
+let players = []
+
 io.on('connection', (socket) => {
+  
   console.log('a user connected');
   socket.on('hai', (data) => {
-    socket.broadcast.emit('hai', data)
+    players.push(data)
+    console.log(players)
+    socket.broadcast.emit('hai', players)
   })
 
   socket.on('sendAnswer', (data) => {
     socket.broadcast.emit('sendAnswer', data)
+  })
+
+  socket.on('disconnect', () => {
+    players.shift()
   })
 });
 
