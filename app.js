@@ -21,6 +21,10 @@ io.on('connection', (socket) => {
   socket.on('hai', (data) => {
     socket.broadcast.emit('hai', data)
   })
+
+  socket.on('sendAnswer', (data) => {
+    socket.broadcast.emit('sendAnswer', data)
+  })
 });
 
 app.use(route)
